@@ -1,6 +1,7 @@
 <template>
-    <NuxtPage />
-    
+    <div>
+        <h1>about</h1>
+    </div>
 </template>
 
 <script>
